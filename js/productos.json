@@ -1,0 +1,110 @@
+[
+    {
+        "id": "Juego p-01",
+        "titulo": "Apex Legend",
+        "categoria": {
+            "nombre": "juegos para playstation",
+            "id": "juegos para playstation"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "Juego p-02",
+        "titulo": "The last Of As",
+        "categoria": {
+            "nombre": "juegos para playstation",
+            "id": "juegos para playstation"
+        },
+        "precio": 9700
+    },
+    {
+        "id": "Juego p-03",
+        "titulo": "Metal Gear Solid V",
+        "categoria": {
+            "nombre": "juegos para playstation",
+            "id": "juegos para playstation"
+        },
+        "precio": 8500
+    },
+    {
+        "id": "Juego p-04",
+        "titulo": "Diablo 4",
+        "categoria": {
+            "nombre": "juegos para playstation",
+            "id": "juegos para playstation"
+        },
+        "precio": 7250
+    },
+    {
+        "id": "Juego x-01",
+        "titulo": "ARK 2",
+        "categoria": {
+            "nombre": "Juegos para X Box",
+            "id": "Juegos para X Box"
+        },
+        "precio": 6200
+    },
+    {
+        "id": "Juego x-02",
+        "titulo": "Avowed",
+        "categoria": {
+            "nombre": "Juegos para X Box",
+            "id": "Juegos para X Box"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "Juego x-03",
+        "titulo": "Forza Motorsport",
+        "categoria": {
+            "nombre": "Juegos para X Box",
+            "id": "Juegos para X Box"
+        },
+        "precio": 5400
+    },
+    {
+        "id": "Hellblade 2",
+        "titulo": "Camiseta 01",
+        "categoria": {
+            "nombre": "Juegos para X Box",
+            "id": "Juegos para X Box"
+        },
+        "precio": 5200
+    },
+    {
+        "id": "Juego pc-01",
+        "titulo": "Battle Tech",
+        "categoria": {
+            "nombre": "Juegos para PC",
+            "id": "Juegos para PC"
+        },
+        "precio": 5600
+    },
+    {
+        "id": "Juego pc-02",
+        "titulo": "Black Mesa",
+        "categoria": {
+            "nombre": "Juegos para PC",
+            "id": "Juegos para PC"
+        },
+        "precio": 4100
+    },
+    {
+        "id": "Juego pc-03",
+        "titulo": "Crusader Kings III",
+        "categoria": {
+            "nombre": "Juegos para PC",
+            "id": "Juegos para PC"
+        },
+        "precio": 7200
+    },
+    {
+        "id": "Juego pc-04",
+        "titulo": "Dota 2",
+        "categoria": {
+            "nombre": "Juegos para PC",
+            "id": "Juegos para PC"
+        },
+        "precio": 3000
+    }
+]
