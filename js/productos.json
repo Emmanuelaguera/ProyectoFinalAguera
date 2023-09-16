@@ -2,78 +2,87 @@
     {
         "id": "Juego p-01",
         "titulo": "Apex Legend",
+        "imagen": "./img/Apex.jpg",
         "categoria": {
-            "nombre": "juegos para playstation",
-            "id": "juegos para playstation"
+            "nombre": "Juegos para playstation",
+            "id": "Juegos para playstation"
         },
         "precio": 9500
     },
     {
         "id": "Juego p-02",
         "titulo": "The last Of As",
+        "imagen": "./img/tloa.jpg",
         "categoria": {
-            "nombre": "juegos para playstation",
-            "id": "juegos para playstation"
+            "nombre": "Juegos para playstation",
+            "id": "Juegos para playstation"
         },
         "precio": 9700
     },
     {
         "id": "Juego p-03",
         "titulo": "Metal Gear Solid V",
+        "imagen": "./img/mg5.jpg",
         "categoria": {
-            "nombre": "juegos para playstation",
-            "id": "juegos para playstation"
+            "nombre": "Juegos para playstation",
+            "id": "Juegos para playstation"
         },
         "precio": 8500
     },
     {
         "id": "Juego p-04",
         "titulo": "Diablo 4",
+        "imagen": "./img/diablo.jpg",
         "categoria": {
-            "nombre": "juegos para playstation",
-            "id": "juegos para playstation"
+            "nombre": "Juegos para playstation",
+            "id": "Juegos para playstation"
         },
         "precio": 7250
     },
     {
         "id": "Juego x-01",
         "titulo": "ARK 2",
+        "imagen": "./img/ark.jpg",
         "categoria": {
-            "nombre": "Juegos para X Box",
-            "id": "Juegos para X Box"
+            "nombre": "Juegos para XBox",
+            "id": "Juegos para XBox"
         },
         "precio": 6200
     },
     {
         "id": "Juego x-02",
         "titulo": "Avowed",
+        "imagen": "./img/avowed.jpg",
         "categoria": {
-            "nombre": "Juegos para X Box",
-            "id": "Juegos para X Box"
+            "nombre": "Juegos para XBox",
+            "id": "Juegos para XBox"
         },
         "precio": 7000
     },
     {
         "id": "Juego x-03",
         "titulo": "Forza Motorsport",
+        "imagen": "./img/forza.jpg",
         "categoria": {
-            "nombre": "Juegos para X Box",
-            "id": "Juegos para X Box"
+            "nombre": "Juegos para XBox",
+            "id": "Juegos para XBox"
         },
         "precio": 5400
     },
     {
         "id": "Hellblade 2",
-        "titulo": "Camiseta 01",
+        "titulo": "hellblade 2",
+        "imagen": "./img/hellblade.jpg",
         "categoria": {
-            "nombre": "Juegos para X Box",
-            "id": "Juegos para X Box"
+            "nombre": "Juegos para XBox",
+            "id": "Juegos para XBox"
         },
         "precio": 5200
     },
     {
         "id": "Juego pc-01",
         "titulo": "Battle Tech",
+        "imagen": "./img/battle.jpg",
         "categoria": {
             "nombre": "Juegos para PC",
             "id": "Juegos para PC"
@@ -83,6 +92,7 @@
     {
         "id": "Juego pc-02",
         "titulo": "Black Mesa",
+        "imagen": "./img/blak.jpg",
         "categoria": {
             "nombre": "Juegos para PC",
             "id": "Juegos para PC"
@@ -92,6 +102,7 @@
     {
         "id": "Juego pc-03",
         "titulo": "Crusader Kings III",
+        "imagen": "./img/crusader.jpg",
         "categoria": {
             "nombre": "Juegos para PC",
             "id": "Juegos para PC"
@@ -101,6 +112,7 @@
     {
         "id": "Juego pc-04",
         "titulo": "Dota 2",
+        "imagen": "./img/dota.jpg",
         "categoria": {
             "nombre": "Juegos para PC",
             "id": "Juegos para PC"
